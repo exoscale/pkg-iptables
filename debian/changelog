@@ -1,6 +1,7 @@
 iptables (1.4.21-1ubuntu1~precise0+exo1) precise; urgency=medium
 
   * Backport to Precise.
+    - Disable autotests (don't seem there is anything).
 
  -- Vincent Bernat <bernat@debian.org>  Thu, 20 Oct 2016 16:43:39 +0200
 
